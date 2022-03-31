@@ -31,3 +31,9 @@ header {
 .social-links a:hover {
   color: #ffd700;
 }
+
+.superscript { 
+  position: relative;
+  top: -0.5em;
+  font-size: 80%;
+}
